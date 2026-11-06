@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "WhiteLagoon.Web\\WhiteLagoon.Web.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WhiteLagoon.Application\\WhiteLagoon.Application.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WhiteLagoon.Infrastructure\\WhiteLagoon.Infrastructure.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
